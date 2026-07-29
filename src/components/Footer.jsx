@@ -24,14 +24,14 @@ export default function Footer() {
               <a href="#twitter" className="social-btn" aria-label="Twitter">
                 𝕏
               </a>
-              <a href="#github" className="social-btn" aria-label="GitHub">
+              <a href="https://github.com/Soumodeep23/qorevix-website" className="social-btn" aria-label="GitHub">
                 GH
               </a>
               <a href="#linkedin" className="social-btn" aria-label="LinkedIn">
                 IN
               </a>
-              <a href="#discord" className="social-btn" aria-label="Discord">
-                DC
+              <a href="https://www.instagram.com/qorevix_technologies/" className="social-btn" aria-label="Instagram">
+                IG
               </a>
             </div>
           </div>
@@ -70,7 +70,7 @@ export default function Footer() {
               <li><a href="#privacy">Privacy Protocol</a></li>
               <li><a href="#terms">Terms of Service</a></li>
               <li><a href="#security">Security Audit</a></li>
-              <li><a href="#contact">San Francisco, CA</a></li>
+              <li><a href="#contact">Kolkata, WB</a></li>
             </ul>
           </div>
         </div>
@@ -79,7 +79,7 @@ export default function Footer() {
           <div className="footer-copy">
             © {new Date().getFullYear()} Qorevix Technologies Inc. All rights reserved.
           </div>
-          <div className="footer-domain">qorevix.tech // v2.0.4-RELEASE</div>
+          <div className="footer-domain">qorevixtechnologies.in // v2.0.4-RELEASE</div>
         </div>
       </div>
     </footer>

@@ -58,8 +58,9 @@ export default function CTA() {
           )}
 
           <p className="cta-meta">
-            Strict NDA guaranteed. Or reach us directly at{' '}
-            <a href="mailto:hello@qorevix.tech">hello@qorevix.tech</a>
+            Strict NDA guaranteed. Or reach us directly at{' '} 
+            <a href="mailto:founder@qorevixtechnologies.in">founder@qorevixtechnologies.in</a> or {' '}
+            <a href="mailto:cofounder@qorevixtechnologies.in">cofounder@qorevixtechnologies.in</a>
           </p>
         </div>
       </div>
