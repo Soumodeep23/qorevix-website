@@ -172,7 +172,7 @@ export default function CaseStudyModal({ project, onClose }) {
           </div>
         )}
 
-        {/* Actions */}
+        {/* Actions
         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
           {caseStudy.demoUrl && (
             <a
@@ -215,7 +215,7 @@ export default function CaseStudyModal({ project, onClose }) {
               View GitHub Repo 💻
             </a>
           )}
-        </div>
+        </div> */}
       </div>
     </div>
   )
