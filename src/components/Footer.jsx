@@ -24,13 +24,13 @@ export default function Footer() {
               <a href="#twitter" className="social-btn" aria-label="Twitter">
                 𝕏
               </a>
-              <a href="https://github.com/Soumodeep23/qorevix-website" className="social-btn" aria-label="GitHub">
+              <a href="https://github.com/Soumodeep23/qorevix-website" target="_blank" rel="noopener noreferrer" className="social-btn" aria-label="GitHub">
                 GH
               </a>
               <a href="#linkedin" className="social-btn" aria-label="LinkedIn">
                 IN
               </a>
-              <a href="https://www.instagram.com/qorevix_technologies/" className="social-btn" aria-label="Instagram">
+              <a href="https://www.instagram.com/qorevix_technologies/"  target="_blank" rel="noopener noreferrer" className="social-btn" aria-label="Instagram">
                 IG
               </a>
             </div>
