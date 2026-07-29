@@ -1,5 +1,7 @@
 import React from 'react'
 import QorevixLogo from './QorevixLogo'
+import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 
 export default function Footer() {
   const scrollTo = (id) => {
@@ -22,16 +24,16 @@ export default function Footer() {
             </p>
             <div className="footer-socials">
               <a href="#twitter" className="social-btn" aria-label="Twitter">
-                𝕏
+                <FaXTwitter />
               </a>
               <a href="https://github.com/Soumodeep23/qorevix-website" target="_blank" rel="noopener noreferrer" className="social-btn" aria-label="GitHub">
-                GH
+                <FaGithub />
               </a>
               <a href="#linkedin" className="social-btn" aria-label="LinkedIn">
-                IN
+                <FaLinkedin />
               </a>
               <a href="https://www.instagram.com/qorevix_technologies/"  target="_blank" rel="noopener noreferrer" className="social-btn" aria-label="Instagram">
-                IG
+                <FaInstagram />
               </a>
             </div>
           </div>
