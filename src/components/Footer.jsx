@@ -70,7 +70,7 @@ export default function Footer() {
               <li><a href="#privacy">Privacy Protocol</a></li>
               <li><a href="#terms">Terms of Service</a></li>
               <li><a href="#security">Security Audit</a></li>
-              <li><a href="#contact">Kolkata, WB</a></li>
+              <li><a href="#contact">Kolkata, IN</a></li>
             </ul>
           </div>
         </div>
